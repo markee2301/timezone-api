@@ -1,0 +1,15 @@
+{
+  "name": "timezone-api",
+  "version": "1.0.0",
+  "description": "API to get timezone info by area code.",
+  "main": "getTimeZone.js",
+  "scripts": {
+    "start": "node getTimeZone.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
