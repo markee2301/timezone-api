@@ -76,11 +76,6 @@ Timezone API is running. Use /timezone?areaCode=XXX
 
 ---
 
-## Deployment
-
-- Deploy this API to [Render](https://render.com/) or any Node.js hosting platform.
-- The server listens on the port defined by the `PORT` environment variable or defaults to `3000`.
-
 ## Notes
 
 - All area codes must be provided as 3-digit strings (e.g., `"201"`).
