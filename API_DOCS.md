@@ -5,7 +5,7 @@ This API provides timezone, offset, and region information for North American ar
 ## Base URL
 
 ```
-https://<your-render-url>
+https://timezone-api-sypv.onrender.com/
 ```
 
 ## Endpoints
